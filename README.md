@@ -1,0 +1,1 @@
+scrapy crawl airbnb_spider -o output.csv
